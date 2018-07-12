@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository on Github.
+This is my first repository on Github. My name is Aidan and I have recently obtained my Diploma in Advanced Web Dynamics in Griffith College Dublin. I made the decesion to make a career change as I was bored in my office job and wanted a challenge. I decided on web as I had learned some HTML when I was in college and from what I could see in the changes of technology, I knew the creation and problem-solving elements of development would keep me interested for the forcible future.
